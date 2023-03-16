@@ -1,1 +1,1 @@
-# Contrat Tempo Monophasé
+# Contrat Tempo Monophasé - TIC standard
